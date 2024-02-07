@@ -1,6 +1,6 @@
 # ESP32
 
-##Installation
+## Installation
 
 Download [Arduino IDE](https://www.arduino.cc/en/software)
 
